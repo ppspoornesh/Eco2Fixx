@@ -1,0 +1,7 @@
+{
+  "name": "Eco2Fixx - Circular Marketplace for Reusable Components",
+  "description": "Connecting damaged-product owners, independent repair shops, and buyers through an AI-assessed circular component marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
